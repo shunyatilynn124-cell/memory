@@ -111,9 +111,9 @@ const Acknowledgements = () => {
             </Card>
 
             {/* Thank You */}
-            <Card className="border-2 border-secondary/30 bg-secondary/5">
+            <Card className="border-2 border-amber-200 bg-amber-100">
               <CardContent className="py-8 text-center">
-                <Heart className="h-12 w-12 text-secondary mx-auto mb-4" />
+                <Heart className="h-12 w-12 text-amber-300 mx-auto mb-4 fill-current" />
                 <h3 className="font-display text-2xl font-bold text-foreground mb-2">
                   Thank You
                 </h3>
