@@ -64,7 +64,7 @@ const Acknowledgements = () => {
                 <div className="grid grid-cols-2 gap-4">
                   <div>
                     <p className="text-sm text-muted-foreground">Subject</p>
-                    <p className="font-semibold text-foreground">ICT</p>
+                    <p className="font-semibold text-foreground">English</p>
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Grade</p>
